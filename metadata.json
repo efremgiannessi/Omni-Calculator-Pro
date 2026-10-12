@@ -1,0 +1,6 @@
+{
+  "name": "Percentage Calculator - Calcolatore Percentuale",
+  "description": "Replicazione completa al 100% dell'app Percentage Calculator: calcoli quotidiani, sconti, mance, ricarico, margini di profitto, IVA, commercio, interesse composto e cronologia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
